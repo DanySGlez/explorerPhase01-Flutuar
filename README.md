@@ -26,7 +26,7 @@ Recriar uma aplicação, a partir de um layout pronto no Figma, para fortalece
 </div>
 <br>
 
-[Clique aqui para acessar](https://danysglez.github.io/Explorer-Stage02-Flutuar/)
+[Clique aqui para acessar](https://danysglez.github.io/explorerPhase01-Flutuar/)
 
 # 
 <div>
